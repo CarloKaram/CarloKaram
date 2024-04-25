@@ -2,9 +2,6 @@
 
 **`Robotics, Control, and Mechatronics`**
 
-- 🌱 I’m currently learning about **Legged Locomotion** via [**Crocoddyl**](https://github.com/loco-3d/crocoddyl/tree/devel) and [**Pinochhio**](https://github.com/stack-of-tasks/pinocchio)
-- 📫 How to reach me: karam.carlo@protonmail.com
-
 ---
 
 ### 🧰 Languages and Tools
